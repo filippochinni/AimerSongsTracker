@@ -18,6 +18,8 @@ The application allow to search for a Song by 3 different Search Criteria:
 
 It is also possbile to sort the Search results by 3 different Sort Criteria, which are the same as the Search Criteria. Click 2 times to make the order anti-alphabetic.<br><br>
 
-
-_I am a Computer Science Student, and a novice Web Developer, so this website is not a high level piece of software. The view on the Desktop version is better; it is fine on the Mobile version, but you may want to hold the device horizontally for better view. In order not to overcomplicate my job, to save the Labels changes made by each user I used the LocalStorage, so your Data will be lost if you clean recent browser history, delete cookies or delete the browser (they might also delete the Browser memory gets full)_.
+**Important**:<br>
+_I am a Computer Science Student, and a novice Web Developer, so this website is not a high level piece of software.<br>
+The view on the Desktop version is better; it is fine on the Mobile version, but you may want to hold the device horizontally for better view.<br>
+In order not to overcomplicate my job, to save the Labels changes made by each user I used the LocalStorage, so your Data will be lost if you clean recent browser history, delete cookies or delete the browser. Data might also delete if the Browser memory gets full, so i would suggest to visit the website and make some changes every once in a while (once every 2-5 months should be fine i think) as it "resets" the priority of the Data and they will become less likely to get deleted if the Browser memory gets full_.
 
