@@ -1,6 +1,6 @@
 # AimerSongsTracker
 
-Aimer Songs Tracker is a fanmade web-application to keep track of the great Japanese singer Aimer.<br><br>
+**Aimer Songs Tracker is a fanmade web-application to keep track of the great Japanese singer Aimer.** <br><br>
 
 The data for each song on this website is derived from an Excel spreadsheet taken from this [Reddit post](https://www.reddit.com/r/Aimer/comments/14vyy9o/aimers_complete_song_list/), which I have organized and cleaned of less significant data before using it to create this Tracker.<br><br>
 
