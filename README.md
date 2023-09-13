@@ -9,7 +9,7 @@ The main Use Case of the application is to label each song as:
 - **Heard**: you have listened to this song but you did not add it to a Playlist.
 - **Playlist**: you have this song in one of your personal Playlists.
 
-<br>
+
 
 The application allow to search for a Song by 3 different Search Criteria:
 - **Song Name**: Search song by its title
