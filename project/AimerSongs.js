@@ -2046,7 +2046,7 @@ function searchSongs(songsArray=AimerSongs, reverse=false, inputString) {
     let resArr = [];
     const searchCriteria = getSearchCriteria();
 
-    resArr = songsArray.filter(elem => elem[searchCriteria] ? elem[searchCriteria].toLowerCase().startsWith(inputString.toLowerCase()) : null);
+    resArr = songsArray.filter(elem => elem[searchCriteria] ? elem[searchCriteria].toLowerCase().includes(inputString.toLowerCase()) : null);
 
     resArr = applyStatusFilter(resArr, getTrackStatusFilter());
 
