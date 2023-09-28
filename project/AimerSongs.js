@@ -2081,6 +2081,8 @@ function getSearchCriteria() {
 function applyStatusFilter(songsArray=AimerSongs, trackStatusCriteria) {
     if(trackStatusCriteria) {
         songsArray = songsArray.filter(elem => getTrackStatus(elem) === trackStatusCriteria);
+
+        feedback.innerHTML = feedbackText + `<span>${songsArray.length}</span>`;
     }
     
     return songsArray;
