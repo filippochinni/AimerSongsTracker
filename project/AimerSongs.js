@@ -2,7 +2,7 @@
 
 import { AimerSongsJSON } from "./songsJSON.js";
 
-const localStorageKey = "User";
+const localStorageKey = "User_Aimer";
 
 const AimerSongs = (localStorage.length > 0) ? initPage() : AimerSongsJSON;
 
