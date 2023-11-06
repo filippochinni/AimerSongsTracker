@@ -4,7 +4,7 @@ import { AimerSongsJSON } from "./songsJSON.js";
 
 const localStorageKey = "User_Aimer";
 
-const AimerSongs = (localStorage.length > 0) ? initPage() : AimerSongsJSON;
+const AimerSongs = (localStorage.getItem(localStorageKey)) ? initPage() : AimerSongsJSON;
 
 const subtitleText = `The are currently (Cover and Remix included) ${AimerSongs.length} Aimer's Songs`;
 const feedbackText = `The Songs which satisfy the Search Criteria are in total `;
