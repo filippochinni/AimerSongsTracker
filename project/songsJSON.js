@@ -51,7 +51,7 @@ export const AimerSongsJSON = [
 		"Title": "Akane Sasu",
 		"Song": "https://youtu.be/bN1t3-2X3aM",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Akane Sasu",
-		"Single/Album": "Akane Sasu / Everlasting Snow | BEST SELECTION \"Blanc\"",
+		"Single/Album": "Akane Sasu / everlasting snow | BEST SELECTION \"Blanc\"",
 		"Year": "2016 | 2017",
 		"Check": 0
 	},
@@ -59,7 +59,7 @@ export const AimerSongsJSON = [
 		"Title": "Akane Sasu (Instrumental)",
 		"Song": "https://youtu.be/dkVLiDWCCtU",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Akane Sasu (Instrumental)",
-		"Single/Album": "Akane Sasu / Everlasting Snow",
+		"Single/Album": "Akane Sasu / everlasting snow",
 		"Year": "2016",
 		"Check": 0
 	},
@@ -67,7 +67,7 @@ export const AimerSongsJSON = [
 		"Title": "Akane Sasu (TV Size)",
 		"Song": "https://youtu.be/XymSeSlFEUI",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Akane Sasu (TV Size)",
-		"Single/Album": "Akane Sasu / Everlasting Snow",
+		"Single/Album": "Akane Sasu / everlasting snow",
 		"Year": "2016",
 		"Check": 0
 	},
@@ -272,9 +272,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Blind to You",
+		"Title": "Blind to you",
 		"Song": "https://youtu.be/oD8XOie40_w",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Blind To You",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Blind To you",
 		"Single/Album": "Torches | Hoshi no Kieta Yoru ni",
 		"Year": "2019 | 2022",
 		"Check": 0
@@ -408,9 +408,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Cold Rain",
+		"Title": "cold rain",
 		"Song": "https://youtu.be/BN7PaZZGp9M",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Cold Rain",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+cold rain",
 		"Single/Album": "Walpurgis",
 		"Year": "2021",
 		"Check": 0
@@ -560,26 +560,26 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Ever After",
+		"Title": "ever After",
 		"Song": "https://youtu.be/yLnVzH__Jqk",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Ever After",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+ever After",
 		"Single/Album": "Walpurgis",
 		"Year": "2021",
 		"Check": 0
 	},
 	{
-		"Title": "Everlasting Snow",
+		"Title": "everlasting snow",
 		"Song": "https://youtu.be/ZLHLu2gAO60",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Everlasting Snow",
-		"Single/Album": "Akane Sasu / Everlasting Snow | BEST SELECTION \"Blanc\"",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+everlasting snow",
+		"Single/Album": "Akane Sasu / everlasting snow | BEST SELECTION \"Blanc\"",
 		"Year": "2016 | 2017",
 		"Check": 0
 	},
 	{
-		"Title": "Everlasting Snow (Instrumental)",
+		"Title": "everlasting snow (Instrumental)",
 		"Song": "https://youtu.be/eUEZnLrHRyg",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Everlasting Snow (Instrumental)",
-		"Single/Album": "Akane Sasu / Everlasting Snow",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+everlasting snow (Instrumental)",
+		"Single/Album": "Akane Sasu / everlasting snow",
 		"Year": "2016",
 		"Check": 0
 	},
@@ -592,9 +592,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "For Lonely (with Mao Abe)",
+		"Title": "for Lonely",
 		"Song": "https://youtu.be/thpIgdhS1Pw",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+For Lonely (with Mao Abe)",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+for Lonely",
 		"Single/Album": "Dare Ka, Umi Wo EP | Daydream",
 		"Year": "2014 | 2016",
 		"Check": 0
@@ -659,7 +659,7 @@ export const AimerSongsJSON = [
 		"Title": "Hana no Uta (End of Spring Ver.)",
 		"Song": "https://youtu.be/yxsQsyfAxIE",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Hana no Uta (End of Spring Ver.)",
-		"Single/Album": "Haru Wa Yuku / Marie | Hana no Uta / I Beg You / Haru wa Yuku",
+		"Single/Album": "Haru Wa Yuku / marie | Hana no Uta / I Beg You / Haru wa Yuku",
 		"Year": "2020 | 2020",
 		"Check": 0
 	},
@@ -683,7 +683,7 @@ export const AimerSongsJSON = [
 		"Title": "Haru wa Yuku",
 		"Song": "https://youtu.be/ekP7VLeXnqY",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Haru wa Yuku",
-		"Single/Album": "Haru Wa Yuku / Marie | Hana no Uta / I Beg You / Haru wa Yuku | Walpurgis",
+		"Single/Album": "Haru Wa Yuku / marie | Hana no Uta / I Beg You / Haru wa Yuku | Walpurgis",
 		"Year": "2020 | 2020 | 2021",
 		"Check": 0
 	},
@@ -728,9 +728,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Hollow-mas",
+		"Title": "hollow-mas",
 		"Song": "https://youtu.be/yrr-bP_RqCY",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Hollow-mas",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+hollow-mas",
 		"Single/Album": "Walpurgis",
 		"Year": "2021",
 		"Check": 0
@@ -931,7 +931,7 @@ export const AimerSongsJSON = [
 		"Title": "Kataomoi (5th Anniversary LIVE Version)",
 		"Song": "https://youtu.be/BzF_d8sg_cE",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Kataomoi (5th Anniversary LIVE Version)",
-		"Single/Album": "Akane Sasu / Everlasting Snow",
+		"Single/Album": "Akane Sasu / everlasting snow",
 		"Year": "2016",
 		"Check": 0
 	},
@@ -1112,10 +1112,10 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Marie",
+		"Title": "marie",
 		"Song": "https://youtu.be/5MWdriB3EBM",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Marie",
-		"Single/Album": "Haru Wa Yuku / Marie | Walpurgis",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+marie",
+		"Single/Album": "Haru Wa Yuku / marie | Walpurgis",
 		"Year": "2020 | 2021",
 		"Check": 0
 	},
@@ -1184,9 +1184,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "My Sweetest One",
+		"Title": "my sweetest one",
 		"Song": "https://youtu.be/B84z6SyxAC4",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+My Sweetest One",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+my sweetest one",
 		"Single/Album": "BroKen NIGHT / HolLow WORLD | Hoshi no Kieta Yoru ni",
 		"Year": "2014 | 2022",
 		"Check": 0
@@ -1344,9 +1344,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Ophelia (Live Version)",
+		"Title": "Ophelia (LIVE Version)",
 		"Song": "https://www.youtube.com/watch?v=39QkWdvpGrg",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Ophelia (Live Version)",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Ophelia (LIVE Version)",
 		"Single/Album": "",
 		"Year": "2015",
 		"Check": 0
@@ -1563,7 +1563,7 @@ export const AimerSongsJSON = [
 		"Title": "Run Riot",
 		"Song": "https://youtu.be/xl228oZuu3k",
 		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Run Riot",
-		"Single/Album": "Haru Wa Yuku / Marie | Hoshi no Kieta Yoru ni",
+		"Single/Album": "Haru Wa Yuku / marie | Hoshi no Kieta Yoru ni",
 		"Year": "2020 | 2022",
 		"Check": 0
 	},
@@ -1648,17 +1648,17 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Shichigatsu No Tsubasa",
+		"Title": "Shichigatsu no Tsubasa",
 		"Song": "https://youtu.be/4hsCnX067OU",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Shichigatsu No Tsubasa",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Shichigatsu no Tsubasa",
 		"Single/Album": "Midnight Sun",
 		"Year": "2014",
 		"Check": 0
 	},
 	{
-		"Title": "Shichigatsu No Tsubasa (LIVE \"Midnight Sun\" Version)",
+		"Title": "Shichigatsu no Tsubasa (LIVE \"Midnight Sun\" Version)",
 		"Song": "https://youtu.be/8OYTjWv3U_M",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Shichigatsu No Tsubasa (LIVE \"Midnight Sun\" Version)",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Shichigatsu no Tsubasa (LIVE \"Midnight Sun\" Version)",
 		"Single/Album": "Brave Shine",
 		"Year": "2015",
 		"Check": 0
@@ -1936,9 +1936,9 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Viva La Vida",
+		"Title": "Viva la vida",
 		"Song": "https://youtu.be/EfGIjLew0os",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Viva La Vida",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Viva la vida",
 		"Single/Album": "Your Favorite Things | Bitter & Sweet",
 		"Year": "2011 | 2012",
 		"Check": 0
@@ -2000,17 +2000,17 @@ export const AimerSongsJSON = [
 		"Check": 0
 	},
 	{
-		"Title": "Wonderland",
+		"Title": "wonderland",
 		"Song": "https://youtu.be/F-LH1A3bwlA",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Wonderland",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+wonderland",
 		"Single/Album": "Walpurgis",
 		"Year": "2021",
 		"Check": 0
 	},
 	{
-		"Title": "Words",
+		"Title": "words",
 		"Song": "https://youtu.be/ssFQhc4C8vc",
-		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+Words",
+		"Search on YT": "https://m.youtube.com/results?sp=mAEA&search_query=Aimer+words",
 		"Single/Album": "After Dark | Midnight Sun",
 		"Year": "2013 | 2014",
 		"Check": 0
